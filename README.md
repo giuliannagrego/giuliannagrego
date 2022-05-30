@@ -20,3 +20,4 @@ Olá sou a Giulianna Grego, iniciante em Programação!
   <a href="https://instagram.com/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+![ezgif-2-6a14eacdad](https://user-images.githubusercontent.com/100610823/171021289-721b9672-b6ec-4488-8656-a9bfdfbea278.gif)
