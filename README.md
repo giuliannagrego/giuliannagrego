@@ -11,7 +11,6 @@ Olá sou a Giulianna Grego, iniciante em Programação!
   <img align="center" alt="Giu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Giu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="rigth" alt="Giu-Gif" height="40" width= "50" src="https://user-images.githubusercontent.com/100610823/171020407-a18da38f-e2dc-4372-a7a9-696e43fcafcb.gif">
 </div>
 
 ##
@@ -20,4 +19,3 @@ Olá sou a Giulianna Grego, iniciante em Programação!
   <a href="https://instagram.com/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-![ezgif-2-6a14eacdad](https://user-images.githubusercontent.com/100610823/171021289-721b9672-b6ec-4488-8656-a9bfdfbea278.gif)
