@@ -12,3 +12,10 @@ Olá sou a Giulianna Grego, iniciante em Programação!
   <img align="center" alt="Giu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+##
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="giuliannagrego" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/giuliannagrego?trk=profile-badge">Giulianna G.</a>
+</div>
+              
