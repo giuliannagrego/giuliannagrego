@@ -11,7 +11,7 @@ Olá sou a Giulianna Grego, iniciante em Programação!
   <img align="center" alt="Giu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Giu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Giu-gif" height="150" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-6a14eacdad.gif">
+  <img align="right" alt="Giu-gif" height="150" style="border-radius:50px;" src="https://github.com/giuliannagrego/giuliannagrego/issues/1#issue-1252854626">
 </div>
 </div>
 
