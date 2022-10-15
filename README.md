@@ -1,11 +1,11 @@
 <h1 align="center">
 Olá sou a Giulianna Grego, estudante de Programação!
-
+</h1>
+<h3> 
 Tenho 22 anos e estou iniciando na carreira de Engenharia de Software na faculdade Estácio.
 
 Aqui você poderá ver um pouco dos meus projetos pessoais!
-
-</h1>
+</h3>
 <div align="center">
   <a href="https://github.com/giuliannagrego">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=giuliannagrego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
