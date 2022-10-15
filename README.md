@@ -6,7 +6,7 @@ Boas vindas ao perfil da Giu!
 </div>
 <h3 align="center"> 
 Tenho 22 anos, trabalhei desde os 18 anos na área de projetos de Engenharia Civil, agora estou iniciando na carreira e cursando Engenharia de Software na faculdade <a href="https://estacio.br/cursos/graduacao/engenharia-de-software">Estácio</a>.
-</br>
+<br>
 Aqui você poderá ver um pouco dos meus projetos pessoais!
 </h3>
 <div align="center">
