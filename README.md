@@ -1,5 +1,10 @@
 <h1 align="center">
-Olá sou a Giulianna Grego, iniciante em Programação!
+Olá sou a Giulianna Grego, estudante de Programação!
+
+Tenho 22 anos e estou iniciando na carreira de Engenharia de Software na faculdade Estácio.
+
+Aqui você poderá ver um pouco dos meus projetos pessoais!
+
 </h1>
 <div align="center">
   <a href="https://github.com/giuliannagrego">
