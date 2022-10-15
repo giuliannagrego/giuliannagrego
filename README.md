@@ -5,8 +5,8 @@ Boas vindas ao perfil da Giu!
   <img alt="Giu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/974803983501778965/980877732244254760/ezgif-2-6a14eacdad.gif?width=539&height=539">
 </div>
 <h3 align="center"> 
-Tenho 22 anos, trabalhei desde os 18 anos na área de projetos de Engenharia Civil, agora estou iniciando na carreira e cursando Engenharia de Software na faculdade <a href="https://estacio.br/cursos/graduacao/engenharia-de-software">Estácio</a> .
-
+Tenho 22 anos, trabalhei desde os 18 anos na área de projetos de Engenharia Civil, agora estou iniciando na carreira e cursando Engenharia de Software na faculdade <a href="https://estacio.br/cursos/graduacao/engenharia-de-software">Estácio</a>.
+</br>
 Aqui você poderá ver um pouco dos meus projetos pessoais!
 </h3>
 <div align="center">
