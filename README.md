@@ -1,8 +1,8 @@
 <h1 align="center">
-Olá sou a Giulianna Grego, estudante de Programação!
+Boas vindas ao perfil da Giu!
 </h1>
 <h3 align="center"> 
-Tenho 22 anos e estou iniciando na carreira de Engenharia de Software na faculdade Estácio.
+Tenho 22 anos, trabalhei desde os 18 anos na área de projetos de Engenharia Civil, e agora estou iniciando na carreira de Engenharia de Software na faculdade <a href="https://estacio.br/cursos/graduacao/engenharia-de-software">Estácio</a> .
 
 Aqui você poderá ver um pouco dos meus projetos pessoais!
 </h3>
