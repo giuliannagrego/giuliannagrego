@@ -1,7 +1,7 @@
 <h1 align="center">
 Olá sou a Giulianna Grego, estudante de Programação!
-</h1 align="center">
-<h3> 
+</h1>
+<h3 align="center"> 
 Tenho 22 anos e estou iniciando na carreira de Engenharia de Software na faculdade Estácio.
 
 Aqui você poderá ver um pouco dos meus projetos pessoais!
