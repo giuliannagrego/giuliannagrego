@@ -2,7 +2,7 @@
 Boas vindas ao perfil da Giu!
 </h1>
 <div align="center">
-  <img alt="Giu-pic" height="150" style="border-radius:50px;" src=["https://cdn.discordapp.com/attachments/1011745163581866146/1107700356449837159/ezgif.com-gif-maker_1.gif"]>
+  <img alt="Giu-pic" height="150" style="border-radius:50px;" src=["https://cdn.discordapp.com/attachments/1011745163581866146/1107700356449837159/ezgif.com-gif-maker_1.gif">
 </div>
 <h3 align="center"> 
 Iniciando na carreira de Dev, cursando Engenharia de Software na faculdade <a href="https://estacio.br/cursos/graduacao/engenharia-de-software">Estácio</a>, tenho 22 anos e trabalhei desde os 18 anos com projetos na área de Engenharia Civil.
