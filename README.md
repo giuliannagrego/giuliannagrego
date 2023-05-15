@@ -7,10 +7,12 @@ Boas vindas ao perfil da Giu!
 
 </h1>
 <h3 align="center"> 
-Iniciando na carreira de Dev, cursando Engenharia de Software na faculdade <a href="https://estacio.br/cursos/graduacao/engenharia-de-software">Estácio</a>, tenho 22 anos e trabalhei desde os 18 anos com projetos na área de Engenharia Civil.
+Iniciei minha jornada DEV no início de 2022, com cursos e bootcamps gratuitos que ensinavam o básico de HTML, CSS e JavaSript, nessa época eu trabalhava como projetista em um escritório de engenharia, mas meu sonho sempre foi estar por trás das aplicações, softwares e desvendar os processos por trás da mágica.
+Comecei minha faculdade em Engenharia de Software mas por algumas desaveças tive que trancar após finalizar o primeiro semestre, mas ingressar na faculdade possibilitou o primeiro passo para minha jornada: Migrar de área. 
+Atualmente trabalho como CPD na rede da Livraria Leitura, estou estudando Java com Spring Boot e em breve teremos projetos concretos e mais elaborados.
 <br>
 <br>
-Aqui você poderá ver um pouco dos meus projetos pessoais!
+Por enquanto, aqui você verá um pouco dos meus projetos pessoais dessa trajetória.
 </h3>
 <div align="center">
   <a href="https://github.com/giuliannagrego">
