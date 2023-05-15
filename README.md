@@ -6,14 +6,16 @@
 Boas vindas ao perfil da Giu!
 
 </h1>
-<h3 align="center"> 
-Iniciei minha jornada DEV no início de 2022, com cursos e bootcamps gratuitos que ensinavam o básico de HTML, CSS e JavaSript, nessa época eu trabalhava como projetista em um escritório de engenharia, mas meu sonho sempre foi estar por trás das aplicações, softwares e desvendar os processos por trás da mágica.
-Comecei minha faculdade em Engenharia de Software mas por algumas desaveças tive que trancar após finalizar o primeiro semestre, mas ingressar na faculdade possibilitou o primeiro passo para minha jornada: Migrar de área. 
-Atualmente trabalho como CPD na rede da Livraria Leitura, estou estudando Java com Spring Boot e em breve teremos projetos concretos e mais elaborados.
-<br>
-<br>
-Por enquanto, aqui você verá um pouco dos meus projetos pessoais dessa trajetória.
-</h3>
+  <h6 align="center"> 
+    Iniciei minha jornada DEV no início de 2022, com cursos e bootcamps gratuitos que ensinavam o básico de HTML, CSS e JavaSript, nessa  época eu trabalhava como projetista em um escritório de engenharia, mas meu sonho sempre foi estar por trás das aplicações, softwares e desvendar os processos por trás da mágica.
+    <br>
+    Comecei minha faculdade em Engenharia de Software mas por algumas desavenças tive que trancar após finalizar o primeiro semestre, mas ingressar na faculdade possibilitou o primeiro passo para minha jornada: Migrar de área. 
+      <br>
+    Atualmente trabalho como CPD na rede da Livraria Leitura, estou estudando Java com Spring Boot e em breve teremos projetos concretos e mais elaborados.
+    <br>
+    <br>
+    Por enquanto, aqui você verá um pouco dos meus projetos pessoais dessa trajetória.
+  </h6>
 <div align="center">
   <a href="https://github.com/giuliannagrego">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=giuliannagrego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
