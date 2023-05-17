@@ -7,6 +7,17 @@ Boas vindas ao perfil da Giu!
 
 </h1>
 
+<h3 align="center">
+  Se quiser saber mais, me siga nas redes sociais!
+</h3>
+  
+<div align="center">
+    <a href="https://instagram.com/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/giuliannagrego">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=giuliannagrego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,7 +26,7 @@ Boas vindas ao perfil da Giu!
 
   ##
   
-<h4> Sobre mim: </h4>
+<h3> Sobre mim: </h3>
 
 <h5 align="left"> 
   
@@ -47,7 +58,10 @@ Boas vindas ao perfil da Giu!
 -
   <img align="center" alt="Giu-Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Giu-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Giu-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Giu-Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+-
+  <img align="center" alt="Giu-Unity" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+          
 </h4>
 
   ##
@@ -87,13 +101,3 @@ Boas vindas ao perfil da Giu!
   
 </div>
 
-##
-
-<h3 align="center">
-  Se quiser saber mais, me siga nas redes sociais!
-</h3>
-  
-<div align="center">
-    <a href="https://instagram.com/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giuliannagrego" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
