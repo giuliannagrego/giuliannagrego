@@ -72,7 +72,7 @@ Boas vindas ao perfil da Giu!
     <li>Sempre quis streamar (hobby), depois de muita luta para conquistar meu sonhado PC gamer, criei um canal na Twitch, eu sou a responsável por desenvolver desde a costumização do canal, até a criação e customização do ¹<i>personagem</i>. Para isso, utilizei as ferramentas Photoshop (customização) e ²Unity (animações/movimentações/interações).</li>
     <br>
     <br>
-    <li>Estou inserida no mundo da tecnologia desde nova (meu pai é T.I.) sempre tive acesso a consoles e o famoso "(só nos) computer".</li>
+    <li>Estou inserida no mundo da tecnologia desde nova (meu pai trabalha com T.I.) sempre tive acesso a consoles e o famoso "(só nos) computer".</li>
     <br>
     <br>
     <li>Meu vício por jogos é aparente e não tem nem jeito de esconder, hoje sou uma maníaca atras de platinar tudo que vejo pela frente</li>
