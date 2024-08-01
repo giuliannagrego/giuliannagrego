@@ -33,10 +33,7 @@ Boas vindas ao perfil da Giu!
   Iniciei minha jornada DEV no início de 2022, com cursos e bootcamps gratuitos que ensinavam o básico de HTML, CSS e JavaSript, nessa época eu trabalhava como projetista em um escritório de engenharia, mas meu sonho sempre foi estar por trás das aplicações, softwares e   desvendar os processos por trás da mágica.
   <br>
   <br>
-  Comecei minha faculdade em Engenharia de Software mas por algumas desavenças tive que trancar após finalizar o primeiro semestre, mas ingressar na faculdade possibilitou o primeiro passo para minha jornada: Migrar de área. 
-  <br>
-  <br>
-  Atualmente trabalho como CPD na rede da Livraria Leitura, estou estudando Java com Spring Boot e em breve teremos projetos concretos e mais elaborados.
+  Comecei minha faculdade em Engenharia de Software e atualmente estou no 3º semestre, ingressar na faculdade possibilitou o primeiro passo para minha jornada: Migrar de área. 
   <br>
   <br>
   Por enquanto, aqui você verá um pouco dos meus projetos pessoais dessa trajetória.
