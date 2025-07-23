@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=30&duration=3000&pause=500&color=980A9A&center=true&vCenter=true&repeat=false&width=200&height=40&lines=Hi%2C+welcome!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=30&duration=3000&pause=500&color=980A9A&center=true&vCenter=true&repeat=true&width=200&height=40&lines=Hi%2C+welcome!" alt="Typing SVG" />
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=25&duration=4000&pause=500&color=3AA5CA&center=true&vCenter=true&repeat=false&width=200&height=40&lines=I'm+Giulianna" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=25&duration=4000&pause=500&color=3AA5CA&center=true&vCenter=true&repeat=true&width=200&height=40&lines=I'm+Giulianna" alt="Typing SVG" />
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=25&duration=5000&pause=500&color=7216BB&center=true&vCenter=true&repeat=false&height=40&lines=+Software+Engineering+student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=25&duration=5000&pause=500&color=7216BB&center=true&vCenter=true&repeat=true&height=40&lines=+Software+Engineering+student" alt="Typing SVG" />
 <br>
 <br>
 <img width=30% src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8zbmt6YzM2ZTV0bzJyejViMmUxbThzdXh0ZnpmZmh5aXpscm4xbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"/>
