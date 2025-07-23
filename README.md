@@ -23,30 +23,36 @@
 
 <img align="right" alt="giuli-rpg" width=30% src="https://media.discordapp.net/attachments/1352424845467717798/1397258507622809620/download20250702133204.png?ex=688111e4&is=687fc064&hm=2804ff8accc788696e126b80976a2f5fee8f2ec1d556c39587498fa815248879&=&format=webp&quality=lossless"/>
   
-**Name:** Giulianna (but people call me as Giuli)
+**Nome:** Giulianna Grego
+**Classe:** Engenheira de Software (Estagiária Dev)
+**Raça:** Humana (em constante evolução!)
 
-**Class:** Software Engineering student, former Revit explorer turned code sorceress
+---
 
-**Specialties:** Java, Unity, and a growing curiosity for C# — with a sprinkle of chaos in every project
+### 🛡️ Atributos Principais
 
-**Fun facts that won’t show up in my source code:**
+* **Inteligência (INT):** ✨ Estudante de Engenharia de Software
+* **Destreza (DES):** 💻 Desenvolvedora (Estagiária)
+* **Sabedoria (SAB):** 🧠 Sempre aprendendo algo novo, útil ou não!
+* **Carisma (CAR):** 🗣️ Conecte-se:
+    * [LinkedIn](https://www.linkedin.com/in/giuliannagrego/)
+    * [Email](mailto:giuliannagc@outlook.com)
 
-- I got into programming thanks to plugins. Yup, that happened.
+---
 
-- My dev setup includes Coke Zero, headphones, and a playlist with +10 focus.
+### ⚔️ Habilidades Adicionais (Inventário de Conhecimentos)
 
-- When I hit a bug wall? I take a power nap. Works better than debugging sometimes.
+* **Linguagens Favoritas:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) (Exemplos, você pode adicionar mais!)
+* **Interesses:** 🎮 Jogos, 📚 Mangás/Livros, 🎬 Séries/Filmes/Animes
+* **Citação de Jornada:** *"A maior alegria da magia está em buscá-la" – Frieren*
 
-- I have two cats, Frank (persistent) and Gohan (chaotic good), who either walk on my keyboard or nap on the mouse.
+---
 
-- In my free time, I dive into games, binge anime, watch movies and read manga.
+### 📊 Diário de Bordo (Estatísticas de Combate)
 
-- One of my secret dreams? Becoming a powerlifter. For now, I just lift heavy lines of code.
-
-**My dev life as a fantasy quest:**
-
-- My magical IDE would have infinite energy, auto-refactors, and spawn beautiful docs with a single command.
-- My ultimate power? Solving bugs in my sleep — no clue how, but the commits mysteriously appear.
+[![Giulianna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO_GITHUB&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
