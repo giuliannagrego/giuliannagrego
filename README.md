@@ -21,7 +21,7 @@
 
 <img align="right" alt="giuli-rpg" width=30% src="https://media.discordapp.net/attachments/1352424845467717798/1397258507622809620/download20250702133204.png?ex=688111e4&is=687fc064&hm=2804ff8accc788696e126b80976a2f5fee8f2ec1d556c39587498fa815248879&=&format=webp&quality=lossless"/>
   
-**Name:** Giulianna (but bugs know me as Giuli)
+**Name:** Giulianna (but people call me as Giuli)
 
 **Class:** Software Engineering student, former Revit explorer turned code sorceress
 
