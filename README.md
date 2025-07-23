@@ -15,7 +15,9 @@
 
 <img alt="color-line" width=100% src="https://media.discordapp.net/attachments/1352424845467717798/1397285480478806187/Frame_1_5.gif?ex=68812b02&is=687fd982&hm=965ccc4deb8aec40ae0c63433e733ce170a486320e78975c480c95fb8c7e5cc0&="/>
 
-## 🧙‍♀️ About Me
+
+  ### 🧙‍♀️ About Me 
+
 
 <div align="left">
 
