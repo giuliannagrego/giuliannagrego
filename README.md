@@ -13,7 +13,7 @@
 
 </div>
 
-<img alt="color-line" width=100% src="https://media.discordapp.net/attachments/1352424845467717798/1397285480478806187/Frame_1_5.gif?ex=68812b02&is=687fd982&hm=965ccc4deb8aec40ae0c63433e733ce170a486320e78975c480c95fb8c7e5cc0&="/>
+<img alt="color-line" width=100% src="https://raw.githubusercontent.com/giuliannagrego/giuliannagrego/refs/heads/main/.github/workflows/color-line.gif"/>
 
 <div align="center" >
   
@@ -23,7 +23,7 @@
 
 <div align="left">
 
-<img align="right" alt="giuli-rpg" width=30% src="https://media.discordapp.net/attachments/1352424845467717798/1397258507622809620/download20250702133204.png?ex=688111e4&is=687fc064&hm=2804ff8accc788696e126b80976a2f5fee8f2ec1d556c39587498fa815248879&=&format=webp&quality=lossless"/>
+<img align="right" alt="giuli-rpg" width=30% src="https://raw.githubusercontent.com/giuliannagrego/giuliannagrego/refs/heads/main/.github/workflows/giu-rpg.png"/>
   
 **Name:** Giulianna (but people call me Giuli)
 
@@ -54,7 +54,7 @@
 - My magical IDE would have infinite energy, auto-refactors, and spawn beautiful docs with a single command.
 - My ultimate power? Solving bugs in my sleep — no clue how, but the commits mysteriously appear.
 
-<img alt="color-line" width=100% src="https://media.discordapp.net/attachments/1352424845467717798/1397285480478806187/Frame_1_5.gif?ex=68812b02&is=687fd982&hm=965ccc4deb8aec40ae0c63433e733ce170a486320e78975c480c95fb8c7e5cc0&="/>
+<img alt="color-line" width=100% src="https://raw.githubusercontent.com/giuliannagrego/giuliannagrego/refs/heads/main/.github/workflows/color-line.gif"/>
 
 </div>
 
