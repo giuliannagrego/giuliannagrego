@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Winky+Rough&size=25&duration=5000&pause=1000&color=7216BB&center=true&vCenter=true&repeat=true&height=40&lines=+Software+Engineering+student" alt="Typing SVG" />
 <br>
 <br>
-<img width=30% src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8zbmt6YzM2ZTV0bzJyejViMmUxbThzdXh0ZnpmZmh5aXpscm4xbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"/>
+<img width=30% src="https://media.discordapp.net/attachments/1352424845467717798/1443983587044229232/Working_Chis_Sweet_Home_GIF.gif?ex=692b0e03&is=6929bc83&hm=5ec38fca1fcbbfb326d20e4915ee68b177db988b5674bb17d5d6beb71182d7b3&="/>
 
 </div>
 
